@@ -28,6 +28,7 @@ public class App extends Application {
 
  
         System.out.println("El resultado es: " + number);
+        System.out.println("HOLA");
 
 //        long result = number + 1;
 //        while(number != 0){
