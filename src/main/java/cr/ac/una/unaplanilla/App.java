@@ -18,30 +18,9 @@ public class App extends Application {
 
     @Override
     public void start(Stage stage) throws IOException {
-        int number;
-       
-        System.out.println("Digite su numero para calcular el Factorial");
-        Scanner scanner = new Scanner(System.in);
-        number = scanner.nextInt();
-        
-
-
- 
-        System.out.println("El resultado es: " + number);
-        System.out.println("HOLA");
-
-//        long result = number + 1;
-//        while(number != 0){
-//            
-//        result = number * result;
-//        number--;
-//        
-//        }
-//        System.out.println("El resultado es: " + result);
-        
-//        scene = new Scene(loadFXML("primary"), 640, 480);
-//        stage.setScene(scene);
-//        stage.show();
+        scene = new Scene(loadFXML("primary"), 640, 480);
+        stage.setScene(scene);
+        stage.show();
     }
     
     
