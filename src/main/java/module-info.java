@@ -1,7 +1,7 @@
-module org.example {
+module cr.ac.una.unaplanilla {
     requires javafx.controls;
     requires javafx.fxml;
 
-    opens org.example to javafx.fxml;
-    exports org.example;
+    opens cr.ac.una.unaplanilla to javafx.fxml;
+    exports cr.ac.una.unaplanilla;
 }

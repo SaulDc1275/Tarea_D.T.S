@@ -4,32 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9be99e51-c50b-4076-8129-2564041993e4" name="Changes" comment="" />
+    <list default="true" id="21a6ef55-74a9-4f64-8ff9-8a0fd5164d7a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2thGQ97zfXLfE9fkK9qQjZQZGz1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2thL3skxPZ36ND4UR7Vj7HBRoBP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GitHub/Tarea D.T.S&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/NetBeans Proyectos/UnaPlanilla&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -43,13 +38,13 @@
 }</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="Tarea_D.T.S" />
+      <module name="Tarea D.T.S" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Tarea_D.T.S" />
+      <module name="Tarea D.T.S" />
       <option name="filePath" />
       <method v="2" />
     </configuration>
@@ -65,14 +60,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9be99e51-c50b-4076-8129-2564041993e4" name="Changes" comment="" />
-      <created>1740796907972</created>
+      <changelist id="21a6ef55-74a9-4f64-8ff9-8a0fd5164d7a" name="Changes" comment="" />
+      <created>1740799163820</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1740796907972</updated>
-      <workItem from="1740796909096" duration="302000" />
-      <workItem from="1740797483129" duration="51000" />
-      <workItem from="1740798530600" duration="7000" />
+      <updated>1740799163820</updated>
+      <workItem from="1740799164966" duration="626000" />
     </task>
     <servers />
   </component>
