@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21a6ef55-74a9-4f64-8ff9-8a0fd5164d7a" name="Changes" comment="">
+    <list default="true" id="21a6ef55-74a9-4f64-8ff9-8a0fd5164d7a" name="Changes" comment="Prueba commit intellij">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cr/ac/una/unaplanilla/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cr/ac/una/unaplanilla/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cr/ac/una/unaplanilla/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cr/ac/una/unaplanilla/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +44,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,10 +80,24 @@
       <workItem from="1740799164966" duration="626000" />
       <workItem from="1740804354322" duration="212000" />
     </task>
+    <task id="LOCAL-00001" summary="Prueba commit intellij">
+      <option name="closed" value="true" />
+      <created>1740806621303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740806621303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Scene" />
+    <MESSAGE value="Prueba commit intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prueba commit intellij" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
