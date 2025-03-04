@@ -9,18 +9,22 @@ import javafx.stage.Stage;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * JavaFX App
+ */
 public class App extends Application {
 
     private static Scene scene;
 
     @Override
     public void start(Stage stage) throws IOException {
-        System.out.println("Hola me llamo Saul");
-        scene = new Scene(loadFXML("primary"), 1080, 720);
+        scene = new Scene(loadFXML("primary"), 640, 480);
         stage.setScene(scene);
         stage.show();
-
     }
+    
+    
+    
 
     static void setRoot(String fxml) throws IOException {
         scene.setRoot(loadFXML(fxml));
